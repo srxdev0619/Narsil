@@ -1,0 +1,1 @@
+Narsil is a class that implements an Octree. It allows the programmer to store data within the tree, to find nearest neighbours to a given point and to interpolate. It has been specially constructed for the Sartre event generator.
